@@ -1,0 +1,3 @@
+personalAddressBook: firstName='Ruby', lastName='Pickering', gender=FEMALE, phoneNumber='077 0743 9494'
+personalAddressBook: firstName='Leo', lastName='Parkin', gender=MALE, phoneNumber='079 8345 7851'
+personalAddressBook: firstName='Sophie', lastName='Holt', gender=FEMALE, phoneNumber='077 8453 8059'

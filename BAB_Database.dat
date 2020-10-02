@@ -1,0 +1,3 @@
+businessAddressBook firstName='Leah', lastName='Green', gender=FEMALE, phoneNumber='078 1617 5800', companyName='Market Basket'
+businessAddressBook firstName='Jude', lastName='Howarth', gender=MALE, phoneNumber='070 6381 1768', companyName='Simple Solutions'
+businessAddressBook firstName='Adam', lastName='Whittaker', gender=MALE, phoneNumber='078 7623 0649', companyName='Champion Auto'
